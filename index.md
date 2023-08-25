@@ -3,13 +3,35 @@ layout: default
 title: Student Blog
 ---
 
+## What have I done: 
 
-## XXX Build you Home Page here 
-XXXX This is about your journey. Start now!!!
+![Image of my Intrest](https://drive.google.com/uc?export=download&id=1QoTmQM_U48BNn2rKhWrQ5hvLnch5eJhy)
 
-## Overview of Hacks, Study and Tangibles
-Blogging in GitHub pages is a way to learn and code at the same time. 
+- Python Ravager:
 
-- Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
-- [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
-- Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder. 
+    ![Text Display of Ravager](https://drive.google.com/uc?export=download&id=1zUJWEJbUrnTEs920yKckb4u5uemQDyHK)
+
+    - This used multiple variables to determin where the Ravager should go in text
+
+
+- Google App Script:
+
+    ![Image of 20 folders being displayed at once](https://drive.google.com/uc?export=download&id=1_q3nohOAyDd2JETmu4P2OXiA87PxBsmB)
+
+    - This project used Google App Script as a way to create both those 20 folders and the 20 spreadsheets inside of them making 400 spreadsheets at once
+
+## What I'm working on
+
+- VS Code 2D display:
+
+    ![Display of the character "x" forming a circle](https://drive.google.com/uc?export=download&id=1oWMVXy3ZQ_M3eRfALGWUem6K4Hhmcx7j)
+
+    - This project that I'm working on is allowing me to review mathmatical concepts in code.
+
+## This Class so far for me 
+- 8/22 - Getting the Cloud Ubuntu Service
+> Installed packages, clone git repository
+- 8/23 - Running the terminal for Linux Shell and Bash, crashed and burned
+> Overloaded with work from other classes
+- 8/24 - Blogging on this page, getting linux shell and bash to work.
+> Blogging despite a few of it's setbacks, was fun once I got in the hang of it.
