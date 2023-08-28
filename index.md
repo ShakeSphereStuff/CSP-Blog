@@ -28,6 +28,11 @@ title: Student Blog
 
     - This project that I'm working on is allowing me to review mathmatical concepts in code.
 
+## Here's a game I stole
+
+>https://betterprogramming.pub/create-the-classic-space-invaders-game-af087786d63b
+
+    
 ## This Class so far for me 
 - 8/22 - Getting the Cloud Ubuntu Service
 > Installed packages, clone git repository
